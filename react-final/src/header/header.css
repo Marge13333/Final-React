@@ -1,0 +1,14 @@
+header{
+    background-position: center;
+    height: 80px;
+}
+.weather{
+    display: flex;
+    margin-left: 400px;
+    gap: 10px;
+    padding-top: 25px;
+}
+.weatherTitle{
+    color: #EDF5E1;
+    font-size: 24px;
+}

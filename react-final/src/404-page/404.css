@@ -1,0 +1,9 @@
+.notFoundWraper{
+    display: flex;
+    justify-content: center;
+    margin-top: 350px;
+}
+.notFounfTitle{
+    font-size: 40px;
+    color: #5CDB95;
+}
